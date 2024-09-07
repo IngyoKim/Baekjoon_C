@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//floatÀ¸·Î ÇßÀ» ¶§´Â ½ÇÆÐÇÏ´Âµ¥ double·Î ÇÒ ¶§¿¡´Â ±¦ÂúÀº ÀÌÀ¯´Â Á¤È®È÷ ¸ð¸£°Ú´Ù...
+//floatìœ¼ë¡œ í–ˆì„ ë•ŒëŠ” ì‹¤íŒ¨í•˜ëŠ”ë° doubleë¡œ í•  ë•Œì—ëŠ” ê´œì°®ì€ ì´ìœ ëŠ” ì •í™•ížˆ ëª¨ë¥´ê² ë‹¤...
 int main()
 {
 	int A, B;
