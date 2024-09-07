@@ -4,7 +4,7 @@
 int main()
 {
 	int N, len = 0, result = 0;
-	char cmd[50][50];
+	char cmd[50][51]; // NULL문자가 있기 때문에 51개로 선언해줘야 함
 	scanf_s("%d", &N);
 
 	for (int i = 0; i < N; i++)
